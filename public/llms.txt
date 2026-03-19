@@ -1,45 +1,35 @@
-# לילילה — Generative Engine Optimization Map
-
-> A massage therapist business called 'Lilila' based in Eilat, Israel. The name 'Lilila' has a soft, feminine, and somewhat mystical sound, suggesting a calming and luxurious atmosphere. Located in the resort city of Eilat, the business likely caters to both tourists and locals seeking relaxation and wellness treatments.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-00852fc4.zappy5.app
+https://example.com
 A massage therapist business called &#39;Lilila&#39; based in Eilat, Israel. The name &#39;Lilila&#39; has a soft, feminine, and somewhat mystical sound, suggesting a calming a
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-00852fc4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-00852fc4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-00852fc4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About לילילה
-A massage therapist business called 'Lilila' based in Eilat, Israel. The name 'Lilila' has a soft, feminine, and somewhat mystical sound, suggesting a calming and luxurious atmosphere. Located in the resort city of Eilat, the business likely caters to both tourists and locals seeking relaxation and wellness treatments.
-
-## Target Audience
-- מקצוענים עירוניים
-
-## Industry
-בריאות ורווחה / טיפולי גוף
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-00852fc4.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-00852fc4.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
